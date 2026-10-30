@@ -21,7 +21,7 @@ The mockup is intentionally one page. The eventual site can move clinical backgr
 - Current intended use, availability, materials, dimensions, cleaning validation, reuse limits, current regulatory status remain to be confirmed by inventors before final product-site publication.
 - No generalized superiority, radiation reduction, repeat-procedure reduction, anxiety reduction, transport suitability, or approval claims adopted. Attributed testimonials describe individual experiences, not established clinical outcomes.
 - Omitted the four requested blocks: Yearly Procedural Need; Additional Context and Sources for These Estimates; Estimated Number of Pediatric Patients Annually; Which Medical Professionals Would Benefit from the Pediatric Position Holder.
-- Removed old video, single-use positioning, speculative retail availability, market estimates, regulatory table pending verification, and unsupported categorical claims from concept.
+- Removed old video, single-use positioning, speculative retail availability, market estimates, and unsupported categorical claims from concept.
 - Do not use the website's “not a restraint” claim as settled status. The existing page's classification definition uses restraint language. Resolve before publishing classification copy.
 - Both phone numbers are drawn from the current page. Its second phone link points to a different number than the visible text; this mockup uses the visible number, (806) 241-0373. Confirm before final product-site launch.
 
@@ -69,3 +69,21 @@ Restoration validation: desktop and 390-pixel mobile layouts reviewed; parent qu
 ## Inventor career restored
 
 At the user's request, the story section visibly restores Frank Louis Quattromani, M.D.'s career rather than hiding it behind an expandable panel. Source: the original site's About Us section, reviewed October 30, 2026, and its first-person account of 50 years in practice. The six restored credentials cover University Medical Center in Lubbock; the Texas Tech clinical professorship; former radiology consultancy to the U.S. Army Surgeon General's office; retired Army colonel rank; the Cincinnati Children's fellowship (1974–1976); and Wake Forest, Class of 1962. Dates are expanded for readability without changing meaning. Patricia Rae Quattromani remains credited as co-inventor and product designer. Contact and footer content are unchanged.
+
+
+## Patent and device classification restored
+
+`patent-and-classification.html` is a separate static reference page, linked from the home navigation, design section, and clinical-background answer. It retains the FDA category table and patent identifiers without reintroducing the four excluded Applications blocks, appendix, or testing gallery. The review site's noindex policy is retained; indexing can be enabled when the user approves final launch.
+
+Sources reviewed October 30, 2026:
+
+- Issued patent front page: https://patentimages.storage.googleapis.com/f6/ff/ed/fbfe007ffc60de/US11903864.pdf . Directly inspected as an image. US11,903,864 B2, issued February 20, 2024; inventors Frank Louis Quattromani and Patricia Hull Rae Quattromani; assignee at issue Texas Tech University System. Application16/677,199 filed November7,2019. Earlier publication US2020/0170828 A1 published June4,2020. The old site's displayed application number was incomplete. The new page supplies the verified application publication and issued patent separately. No current ownership, maintenance-fee, expiration, or enforceability determination is made.
+- https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=PRN . The restored table reproduces this category entry, including Class1, 510(K) Exempt, product code PRN, regulation880.5680, and GMP Exempt No. The old site's GMP value10 was erroneous. The generic wording concerning straps and single-use/reuse is explicitly distinguished from the product's own unchanged design and more durable material.
+- https://www.ecfr.gov/current/title-21/section-880.5680 and section880.9 are linked for regulatory scope and exemption limitations. The page presents the FDA category as a reference, not a product-specific clearance, registration, or approval claim. The PRN database says GMP Exempt No while the regulation contains a broader GMP exemption provision; the table preserves the database field rather than offering a product-specific legal determination.
+- https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfTPLC/tplc.cfm?id=PRN provides the original table's TPLC link.
+
+`assets/patent-front.png` is a rendered first page of the issued patent, used as a readable document preview linking to the source PDF. Patent information remains distinct from FDA classification information.
+
+At the user’s request, the short Radiology Technician quote is also included alongside the nurse account in “More from the clinical team.” Its repeat appearance as a visible pull quote is intentional.
+
+Technical-page validation: separate route and cross-page/section targets checked; desktop and narrow-mobile table layout reviewed without horizontal overflow; patent preview loaded; both clinician accounts opened by keyboard. Product and regulatory reference wording reviewed against the verified source notes.
