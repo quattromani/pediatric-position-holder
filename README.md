@@ -15,10 +15,10 @@ The mockup is intentionally one page. The eventual site can move clinical backgr
 ## Source and claim boundaries
 
 - Existing public website reviewed October 30, 2026: https://pediatricpositionholder.com/
-- Durable and reusable redesign: supplied by Max Quattromani in this chat.
+- Material change only: Max clarified that the device design is unchanged. Originally developed with inexpensive material for single use, it now uses more durable material for reuse. Existing drawings and illustrations still represent the design.
 - Ground and air transport interest: supplied by Max, reporting the inventor's conversations. Interest is not clinical validation or clearance.
-- Existing illustration and inventor portrait: downloaded from the current website; older design shown explicitly. New product photography is needed.
-- Current intended use, availability, materials, dimensions, cleaning validation, reuse limits, current regulatory status, and whether old design features carry forward remain to be confirmed by inventors before final product-site publication.
+- Existing illustration and inventor portrait: downloaded from the current website. The existing illustration remains representative of the unchanged design; new imagery is optional.
+- Current intended use, availability, materials, dimensions, cleaning validation, reuse limits, current regulatory status remain to be confirmed by inventors before final product-site publication.
 - No superiority, radiation reduction, repeat-procedure reduction, anxiety reduction, transport suitability, or approval claims adopted.
 - Omitted the four requested blocks: Yearly Procedural Need; Additional Context and Sources for These Estimates; Estimated Number of Pediatric Patients Annually; Which Medical Professionals Would Benefit from the Pediatric Position Holder.
 - Removed old video, single-use positioning, speculative retail availability, market estimates, testimonials pending permissions/version confirmation, regulatory table pending verification, and unsupported categorical claims from concept.
@@ -31,7 +31,7 @@ Lead with the child's need to remain still. Show the device immediately. Make re
 
 ## Files
 
-`index.html` and `styles.css` are the reviewable mockup. `assets/positioning.jpeg` is an earlier illustration and `assets/frank.jpg` is the inventor portrait. These assets retain their existing ownership. No AI-generated clinical images are used.
+`index.html` and `styles.css` are the reviewable mockup. `assets/positioning.jpeg` illustrates the unchanged holder design and `assets/frank.jpg` is the inventor portrait. These assets retain their existing ownership. No AI-generated clinical images are used.
 
 Run any local static web server in this folder. This is a design artifact rather than approved medical-device advertising or instructions for use.
 
@@ -46,4 +46,4 @@ To roll back a published change, revert its commit and push the revert to `main`
 
 ## Validation
 
-October 30, 2026: local desktop and narrow mobile viewport checks; no horizontal overflow; images loaded; internal links resolved; native disclosures worked with mouse and keyboard. These are bounded review-site checks, not a complete accessibility conformance audit or clinical validation. Phone calls were not placed. The earlier illustration is labeled, transport suitability remains exploratory, and the four removed content blocks remain absent.
+October 30, 2026: local desktop and narrow mobile viewport checks; no horizontal overflow; images loaded; internal links resolved; native disclosures worked with mouse and keyboard. These are bounded review-site checks, not a complete accessibility conformance audit or clinical validation. Phone calls were not placed. The positioning illustration represents the unchanged design, transport suitability remains exploratory, and the four removed content blocks remain absent.
