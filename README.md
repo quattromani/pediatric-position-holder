@@ -64,3 +64,8 @@ Image sources on https://pediatricpositionholder.com/:
 Photo and testimonial pairings follow the original page. Photo colors remain intact, supported by white frames and lighter sage section backgrounds. The original inexpensive material appears in development photographs; the design remains representative. No generated image edits, fabricated quotations, or new testimonials were introduced.
 
 Restoration validation: desktop and 390-pixel mobile layouts reviewed; parent quotes reflowed without horizontal overflow; native nurse disclosure worked by keyboard; all seven page images and section targets resolved. Copy review confirmed the original quote wording and attributions.
+
+
+## Inventor career restored
+
+At the user's request, the story section visibly restores Frank Louis Quattromani, M.D.'s career rather than hiding it behind an expandable panel. Source: the original site's About Us section, reviewed October 30, 2026, and its first-person account of 50 years in practice. The six restored credentials cover University Medical Center in Lubbock; the Texas Tech clinical professorship; former radiology consultancy to the U.S. Army Surgeon General's office; retired Army colonel rank; the Cincinnati Children's fellowship (1974–1976); and Wake Forest, Class of 1962. Dates are expanded for readability without changing meaning. Patricia Rae Quattromani remains credited as co-inventor and product designer. Contact and footer content are unchanged.
