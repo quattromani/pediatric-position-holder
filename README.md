@@ -19,9 +19,9 @@ The mockup is intentionally one page. The eventual site can move clinical backgr
 - Ground and air transport interest: supplied by Max, reporting the inventor's conversations. Interest is not clinical validation or clearance.
 - Existing illustration and inventor portrait: downloaded from the current website. The existing illustration remains representative of the unchanged design; new imagery is optional.
 - Current intended use, availability, materials, dimensions, cleaning validation, reuse limits, current regulatory status remain to be confirmed by inventors before final product-site publication.
-- No superiority, radiation reduction, repeat-procedure reduction, anxiety reduction, transport suitability, or approval claims adopted.
+- No generalized superiority, radiation reduction, repeat-procedure reduction, anxiety reduction, transport suitability, or approval claims adopted. Attributed testimonials describe individual experiences, not established clinical outcomes.
 - Omitted the four requested blocks: Yearly Procedural Need; Additional Context and Sources for These Estimates; Estimated Number of Pediatric Patients Annually; Which Medical Professionals Would Benefit from the Pediatric Position Holder.
-- Removed old video, single-use positioning, speculative retail availability, market estimates, testimonials pending permissions/version confirmation, regulatory table pending verification, and unsupported categorical claims from concept.
+- Removed old video, single-use positioning, speculative retail availability, market estimates, regulatory table pending verification, and unsupported categorical claims from concept.
 - Do not use the website's “not a restraint” claim as settled status. The existing page's classification definition uses restraint language. Resolve before publishing classification copy.
 - Both phone numbers are drawn from the current page. Its second phone link points to a different number than the visible text; this mockup uses the visible number, (806) 241-0373. Confirm before final product-site launch.
 
@@ -47,3 +47,20 @@ To roll back a published change, revert its commit and push the revert to `main`
 ## Validation
 
 October 30, 2026: local desktop and narrow mobile viewport checks; no horizontal overflow; images loaded; internal links resolved; native disclosures worked with mouse and keyboard. These are bounded review-site checks, not a complete accessibility conformance audit or clinical validation. Phone calls were not placed. The positioning illustration represents the unchanged design, transport suitability remains exploratory, and the four removed content blocks remain absent.
+
+
+## Photos and testimonials restored
+
+The user confirmed permission for the original children's photos and testimonials and explicitly requested their restoration and publication on October 30, 2026. Five photos now complement the illustration: one clinical positioning image, two children exploring decorated holders, and two parent/child portraits beside their original testimonials. The technician quote is visible; a longer nurse account is available in a native disclosure. Quotes are preserved verbatim; attribution labels are lightly standardized without changing age, place, or role. The original site groups the nurse under technologist testimonials; this site preserves the actual Pediatric Nurse attribution.
+
+Image sources on https://pediatricpositionholder.com/:
+
+- `assets/clinical-positioning.jpg`: `images/IMG_4536.jpg` (resized to a 1000-pixel maximum dimension for loading).
+- `assets/child-with-decorated-holder.jpeg`: `images/Photoroom_20240811_184423.jpeg`.
+- `assets/child-exploring-holder.jpeg`: `images/Photoroom_20240811_184322.jpeg`.
+- `assets/parent-and-child-clovis.jpeg`: `images/product-assessment/Parent-testimonial2.jpeg`.
+- `assets/parent-and-child-hobbs.jpeg`: `images/product-assessment/Parent-testimonial3.jpeg`.
+
+Photo and testimonial pairings follow the original page. Photo colors remain intact, supported by white frames and lighter sage section backgrounds. The original inexpensive material appears in development photographs; the design remains representative. No generated image edits, fabricated quotations, or new testimonials were introduced.
+
+Restoration validation: desktop and 390-pixel mobile layouts reviewed; parent quotes reflowed without horizontal overflow; native nurse disclosure worked by keyboard; all seven page images and section targets resolved. Copy review confirmed the original quote wording and attributions.
