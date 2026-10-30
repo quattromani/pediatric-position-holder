@@ -87,3 +87,7 @@ Sources reviewed October 30, 2026:
 At the user’s request, the short Radiology Technician quote is also included alongside the nurse account in “More from the clinical team.” Its repeat appearance as a visible pull quote is intentional.
 
 Technical-page validation: separate route and cross-page/section targets checked; desktop and narrow-mobile table layout reviewed without horizontal overflow; patent preview loaded; both clinician accounts opened by keyboard. Product and regulatory reference wording reviewed against the verified source notes.
+
+## Selling-point hierarchy
+
+The three benefits below the hero are presented as prominent headlines with one supporting sentence each, rather than a small numbered strip. Pale sage separates the band from the introduction; dark serif headlines and short audience labels carry the hierarchy. The benefits remain limited to supported positioning/access features and the user-confirmed material change for reuse.
